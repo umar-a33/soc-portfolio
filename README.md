@@ -1,7 +1,5 @@
 # 🛡️ SOC Analyst Toolbelt & Workflow
 
-This repository documents the tools and processes I use daily in a Security Operations Center (SOC) environment.
-
 ## 🔧 Core Technologies I Operate
 
 | Category | Tool/Function | How I Use It |
