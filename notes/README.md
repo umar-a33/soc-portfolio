@@ -1,6 +1,6 @@
 # 📚 Theory & Knowledge Base
 
-This folder contains my condensed study notes from courses, certifications, and platform learning (LetsDefend, TryHackMe).
+This folder contains my condensed study notes from courses, certifications, and platform learning.
 
 ## 📁 Contents
 - **[soar-toolbelt.md](./soar-toolbelt.md):** My personal guide to using SOAR for case management and automation.
